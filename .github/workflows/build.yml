@@ -8,3 +8,4 @@ jobs:
       - name: Get remote nodeinfo
         run: curl -sLS https://faasd.exit.o6s.io/function/nodeinfo
 
+
