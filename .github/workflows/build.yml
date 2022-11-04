@@ -7,4 +7,3 @@ jobs:
     steps:
       - name: Get remote nodeinfo
         run: curl -sLS https://github.com/defenseunicorns/zarf
-
